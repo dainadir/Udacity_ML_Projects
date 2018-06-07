@@ -1,0 +1,13 @@
+;; 2018.06.07
+;; dainadir
+;; gitignore for Python using pyCharm
+
+;;extensions to ignore
+*.pyc
+
+;;files to ignore
+
+;;directories to ignore
+.idea/
+venv/
+
